@@ -1,0 +1,6 @@
+Id,TipoProcedimento,DataProcedimento,ValorPago,ClienteId
+1,Consulta Médica,2024-09-15,200.00,123
+2,Exame de Imagem,2024-09-20,250.00,123
+3,Exame Laboratorial,2024-09-25,150.00,124
+4,Consulta Médica,2024-08-01,300.00,125
+5,Outro,2024-07-10,50.00,126
